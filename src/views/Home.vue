@@ -51,7 +51,8 @@
         },
         {
           url: require('@/assets/Lumix.png'),
-          text: 'PANASONIC Lumix DMC-GH5 II Body Mirrorless Camera'
+          text: 'PANASONIC Lumix DMC-GH5 II Body Mirrorless Camera cvamera berkualitas'
+          
         },
         {
           url: require('@/assets/fuji.png'),
