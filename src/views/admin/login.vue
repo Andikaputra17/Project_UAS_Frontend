@@ -43,17 +43,17 @@
                 <v-col cols="10" class="mb-12">
                   <v-btn block depressed class="rounded-xl" color="primary">
                     Login
-                  </v-btn>
+                  <!-- </v-btn>
                   <v-row justify="center" align="center" class="mt-1">
                     <v-col cols="6">
                       <v-btn text small class="rounded-xl" @click="$router.push('/sign-up')" >
                         Buat Akun
-                      </v-btn>
-                    </v-col>
+                      </v-btn> -->
+                    <!-- </v-col>
                     <v-col cols="6">
                       <v-btn text small class="rounded-xl">
                         Lupa password ?
-                      </v-btn>
+                      </v-btn> -->
                     </v-col>
                   </v-row>
                 </v-col>
